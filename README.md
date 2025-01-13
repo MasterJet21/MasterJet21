@@ -1,4 +1,4 @@
-<img align="center" height=500 src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6Im1vbmtleWlzbGFuZCIsInRleHQiOiJIRUxMTyIsImlhdCI6MTczNjc0ODM3M30.hjq-1usHqGNjeM3rCLTaeOtogm0c7k9K_tI7Q5Zpoaw" height="200" alt="stats graph"  />
+<img align="center" height=300 src="https://i.etsystatic.com/22115774/r/il/67f93c/2897800326/il_1588xN.2897800326_h8h5.jpg"  />
 </div>
 About me:
 <div align="left">
