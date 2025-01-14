@@ -6,10 +6,10 @@
 
 ### About me:
 <div align="left">
-🏫Student of Tampines Meridian Junior College
+🏫A former student of Tampines Meridian Junior College
 <img align="right" height="250" src="https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg"  />
 <div align="left">
-🎯Currently exploring the world of Computing
+🎯I am currently exploring the world of Computing
 </div>
   
 ###
