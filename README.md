@@ -16,6 +16,9 @@
 
 </div>
 <div align="left">
+<br>
+
+  ### Computing languages:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 <img width="25" />
 </div>
