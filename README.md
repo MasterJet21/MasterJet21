@@ -9,6 +9,8 @@
 🏫A former student of Tampines Meridian Junior College
 <img align="right" height="250" src="https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg"  />
 <div align="left">
+<br>
+  
 🎯I am currently exploring the world of Computing
 </div>
   
