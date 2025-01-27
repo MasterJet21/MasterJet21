@@ -36,6 +36,7 @@ Python frameworks:
 
 <div align="left">
 <img align="left" height="50" src="https://camo.githubusercontent.com/36df6df6ab55cef89cacfbca34d149cb12e0afad54be82058610b11f59ac5ab5/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f39384a6675476f554f78464b36334e426e3651643354523164534763565f6d4a31376f5f77526a5071576f4b6344613750794347314b3243396a6748315062314e36476a"  />
+<img align="left" height="50" src="https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png"  />
 </div>
 <br>
 
@@ -48,7 +49,6 @@ Python frameworks:
 ### IDEs used:
 <img align="left" height="50" src="https://camo.githubusercontent.com/eac245c5cae1b089f22ef408e1f4b35f58b7b3c59f1f37c54c7527da776234c0/68747470733a2f2f676f2d736b696c6c2d69636f6e732e76657263656c2e6170702f6170692f69636f6e733f693d7673636f6465"  />
 <img align="left" height="50" src="https://camo.githubusercontent.com/fb6238b3b65a06550fd5caee8cc71b544011fc5b20e748610514ade292f67d7e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33382f4a7570797465725f6c6f676f2e7376672f3132303070782d4a7570797465725f6c6f676f2e7376672e706e67"  />
-<img align="left" height="50" src="https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png"  />
 
 
 ###
