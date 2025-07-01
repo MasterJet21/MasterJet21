@@ -36,7 +36,7 @@ Python frameworks:
 
 <div align="left">
 <img align="left" height="50" src="https://camo.githubusercontent.com/36df6df6ab55cef89cacfbca34d149cb12e0afad54be82058610b11f59ac5ab5/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f39384a6675476f554f78464b36334e426e3651643354523164534763565f6d4a31376f5f77526a5071576f4b6344613750794347314b3243396a6748315062314e36476a"  />
-<img align="left" height="50" src="https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png"  />
+<img align="left" height="50" src="https://spng.pngfind.com/pngs/s/128-1286693_flask-framework-logo-svg-hd-png-download.png"  />
 </div>
 <br>
 
